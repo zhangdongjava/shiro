@@ -1,0 +1,96 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="shiro1:war exploded">
+    <output-path>$PROJECT_DIR$/shiro1/target/shiro1</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="shiro1" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:4.1.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.1.8.RELEASE" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.1.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:4.1.8.RELEASE" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:4.1.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.1.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.1.8.RELEASE" />
+          <element id="archive" name="shiro-all-2.alpha.0-SNAPSHOT.jar">
+            <element id="module-output" name="shiro-all" />
+          </element>
+          <element id="archive" name="shiro-lang-2.alpha.0-SNAPSHOT.jar">
+            <element id="module-output" name="shiro-lang" />
+          </element>
+          <element id="archive" name="shiro-config-core-2.alpha.0-SNAPSHOT.jar">
+            <element id="module-output" name="shiro-config-core" />
+          </element>
+          <element id="archive" name="shiro-config-ogdl-2.alpha.0-SNAPSHOT.jar">
+            <element id="module-output" name="shiro-config-ogdl" />
+          </element>
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.9.3" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.2" />
+          <element id="archive" name="shiro-crypto-core-2.alpha.0-SNAPSHOT.jar">
+            <element id="module-output" name="shiro-crypto-core" />
+          </element>
+          <element id="archive" name="shiro-crypto-hash-2.alpha.0-SNAPSHOT.jar">
+            <element id="module-output" name="shiro-crypto-hash" />
+          </element>
+          <element id="archive" name="shiro-crypto-cipher-2.alpha.0-SNAPSHOT.jar">
+            <element id="module-output" name="shiro-crypto-cipher" />
+          </element>
+          <element id="archive" name="shiro-event-2.alpha.0-SNAPSHOT.jar">
+            <element id="module-output" name="shiro-event" />
+          </element>
+          <element id="archive" name="shiro-core-2.alpha.0-SNAPSHOT.jar">
+            <element id="module-output" name="shiro-core" />
+          </element>
+          <element id="archive" name="shiro-cache-2.alpha.0-SNAPSHOT.jar">
+            <element id="module-output" name="shiro-cache" />
+          </element>
+          <element id="archive" name="shiro-web-2.alpha.0-SNAPSHOT.jar">
+            <element id="module-output" name="shiro-web" />
+          </element>
+          <element id="archive" name="shiro-aspectj-2.alpha.0-SNAPSHOT.jar">
+            <element id="module-output" name="shiro-aspectj" />
+          </element>
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjrt:1.8.6" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.8.6" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-cas:2.alpha.0-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: org.jasig.cas.client:cas-client-core:3.2.2" />
+          <element id="archive" name="shiro-ehcache-2.alpha.0-SNAPSHOT.jar">
+            <element id="module-output" name="shiro-ehcache" />
+          </element>
+          <element id="library" level="project" name="Maven: net.sf.ehcache:ehcache-core:2.5.3" />
+          <element id="archive" name="shiro-faces-2.alpha.0-SNAPSHOT.jar">
+            <element id="module-output" name="shiro-faces" />
+          </element>
+          <element id="archive" name="shiro-guice-2.alpha.0-SNAPSHOT.jar">
+            <element id="module-output" name="shiro-guice" />
+          </element>
+          <element id="library" level="project" name="Maven: com.google.inject:guice:3.0" />
+          <element id="library" level="project" name="Maven: javax.inject:javax.inject:1" />
+          <element id="library" level="project" name="Maven: com.google.inject.extensions:guice-multibindings:3.0" />
+          <element id="archive" name="shiro-hazelcast-2.alpha.0-SNAPSHOT.jar">
+            <element id="module-output" name="shiro-hazelcast" />
+          </element>
+          <element id="library" level="project" name="Maven: com.hazelcast:hazelcast:2.4.1" />
+          <element id="archive" name="shiro-quartz-2.alpha.0-SNAPSHOT.jar">
+            <element id="module-output" name="shiro-quartz" />
+          </element>
+          <element id="library" level="project" name="Maven: org.opensymphony.quartz:quartz:1.6.1" />
+          <element id="archive" name="shiro-spring-2.alpha.0-SNAPSHOT.jar">
+            <element id="module-output" name="shiro-spring" />
+          </element>
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.10" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.7.7" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/shiro1/target/shiro1/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="shiro1/web/Web" />
+    </root>
+  </artifact>
+</component>

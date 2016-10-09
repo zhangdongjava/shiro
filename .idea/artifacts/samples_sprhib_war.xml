@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="samples-sprhib:war">
+    <output-path>$PROJECT_DIR$/shirocode/shiro/samples/spring-hibernate/target</output-path>
+    <root id="archive" name="samples-sprhib-2.alpha.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="samples-sprhib:war exploded" />
+    </root>
+  </artifact>
+</component>

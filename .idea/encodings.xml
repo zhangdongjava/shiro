@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/shirocode/shiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/all" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/config/core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/config/ogdl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/crypto" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/crypto/cipher" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/crypto/core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/crypto/hash" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/event" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/lang" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/samples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/samples/aspectj" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/samples/guice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/samples/quickstart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/samples/quickstart-guice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/samples/spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/samples/spring-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/samples/spring-hibernate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/samples/web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/support" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/support/aspectj" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/support/ehcache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/support/faces" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/support/features" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/support/guice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/support/hazelcast" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/support/openid4j" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/support/quartz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/support/spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/tools" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/tools/hasher" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirocode/shiro/web" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

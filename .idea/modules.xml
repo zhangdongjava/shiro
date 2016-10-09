@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/samples/aspectj/samples-aspectj.iml" filepath="$PROJECT_DIR$/shirocode/shiro/samples/aspectj/samples-aspectj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/samples/aspectj/samples-aspectj.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/samples/aspectj/samples-aspectj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/samples/guice/samples-guice.iml" filepath="$PROJECT_DIR$/shirocode/shiro/samples/guice/samples-guice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/samples/guice/samples-guice.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/samples/guice/samples-guice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/samples/quickstart/samples-quickstart.iml" filepath="$PROJECT_DIR$/shirocode/shiro/samples/quickstart/samples-quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/samples/quickstart/samples-quickstart.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/samples/quickstart/samples-quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/samples/quickstart-guice/samples-quickstart-guice.iml" filepath="$PROJECT_DIR$/shirocode/shiro/samples/quickstart-guice/samples-quickstart-guice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/samples/quickstart-guice/samples-quickstart-guice.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/samples/quickstart-guice/samples-quickstart-guice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/samples/spring-hibernate/samples-sprhib.iml" filepath="$PROJECT_DIR$/shirocode/shiro/samples/spring-hibernate/samples-sprhib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/samples/spring-hibernate/samples-sprhib.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/samples/spring-hibernate/samples-sprhib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/samples/spring/samples-spring.iml" filepath="$PROJECT_DIR$/shirocode/shiro/samples/spring/samples-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/samples/spring/samples-spring.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/samples/spring/samples-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/samples/spring-client/samples-spring-client.iml" filepath="$PROJECT_DIR$/shirocode/shiro/samples/spring-client/samples-spring-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/samples/spring-client/samples-spring-client.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/samples/spring-client/samples-spring-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/samples/web/samples-web.iml" filepath="$PROJECT_DIR$/shirocode/shiro/samples/web/samples-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/samples/web/samples-web.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/samples/web/samples-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/all/shiro-all.iml" filepath="$PROJECT_DIR$/shirocode/shiro/all/shiro-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/all/shiro-all.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/all/shiro-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/support/aspectj/shiro-aspectj.iml" filepath="$PROJECT_DIR$/shirocode/shiro/support/aspectj/shiro-aspectj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/support/aspectj/shiro-aspectj.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/support/aspectj/shiro-aspectj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/cache/shiro-cache.iml" filepath="$PROJECT_DIR$/shirocode/shiro/cache/shiro-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/cache/shiro-cache.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/cache/shiro-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/config/shiro-config.iml" filepath="$PROJECT_DIR$/shirocode/shiro/config/shiro-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/config/shiro-config.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/config/shiro-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/config/core/shiro-config-core.iml" filepath="$PROJECT_DIR$/shirocode/shiro/config/core/shiro-config-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/config/core/shiro-config-core.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/config/core/shiro-config-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/config/ogdl/shiro-config-ogdl.iml" filepath="$PROJECT_DIR$/shirocode/shiro/config/ogdl/shiro-config-ogdl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/config/ogdl/shiro-config-ogdl.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/config/ogdl/shiro-config-ogdl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/core/shiro-core.iml" filepath="$PROJECT_DIR$/shirocode/shiro/core/shiro-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/core/shiro-core.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/core/shiro-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/crypto/shiro-crypto.iml" filepath="$PROJECT_DIR$/shirocode/shiro/crypto/shiro-crypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/crypto/shiro-crypto.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/crypto/shiro-crypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/crypto/cipher/shiro-crypto-cipher.iml" filepath="$PROJECT_DIR$/shirocode/shiro/crypto/cipher/shiro-crypto-cipher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/crypto/cipher/shiro-crypto-cipher.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/crypto/cipher/shiro-crypto-cipher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/crypto/core/shiro-crypto-core.iml" filepath="$PROJECT_DIR$/shirocode/shiro/crypto/core/shiro-crypto-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/crypto/core/shiro-crypto-core.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/crypto/core/shiro-crypto-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/crypto/hash/shiro-crypto-hash.iml" filepath="$PROJECT_DIR$/shirocode/shiro/crypto/hash/shiro-crypto-hash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/crypto/hash/shiro-crypto-hash.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/crypto/hash/shiro-crypto-hash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/support/ehcache/shiro-ehcache.iml" filepath="$PROJECT_DIR$/shirocode/shiro/support/ehcache/shiro-ehcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/support/ehcache/shiro-ehcache.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/support/ehcache/shiro-ehcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/event/shiro-event.iml" filepath="$PROJECT_DIR$/shirocode/shiro/event/shiro-event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/event/shiro-event.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/event/shiro-event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/support/faces/shiro-faces.iml" filepath="$PROJECT_DIR$/shirocode/shiro/support/faces/shiro-faces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/support/faces/shiro-faces.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/support/faces/shiro-faces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/support/features/shiro-features.iml" filepath="$PROJECT_DIR$/shirocode/shiro/support/features/shiro-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/support/features/shiro-features.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/support/features/shiro-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/support/guice/shiro-guice.iml" filepath="$PROJECT_DIR$/shirocode/shiro/support/guice/shiro-guice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/support/guice/shiro-guice.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/support/guice/shiro-guice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/support/hazelcast/shiro-hazelcast.iml" filepath="$PROJECT_DIR$/shirocode/shiro/support/hazelcast/shiro-hazelcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/support/hazelcast/shiro-hazelcast.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/support/hazelcast/shiro-hazelcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/lang/shiro-lang.iml" filepath="$PROJECT_DIR$/shirocode/shiro/lang/shiro-lang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/lang/shiro-lang.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/lang/shiro-lang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/support/openid4j/shiro-openid4j.iml" filepath="$PROJECT_DIR$/shirocode/shiro/support/openid4j/shiro-openid4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/support/openid4j/shiro-openid4j.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/support/openid4j/shiro-openid4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/support/quartz/shiro-quartz.iml" filepath="$PROJECT_DIR$/shirocode/shiro/support/quartz/shiro-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/support/quartz/shiro-quartz.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/support/quartz/shiro-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/shiro-root.iml" filepath="$PROJECT_DIR$/shirocode/shiro/shiro-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/shiro-root.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/shiro-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/samples/shiro-samples.iml" filepath="$PROJECT_DIR$/shirocode/shiro/samples/shiro-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/samples/shiro-samples.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/samples/shiro-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/support/spring/shiro-spring.iml" filepath="$PROJECT_DIR$/shirocode/shiro/support/spring/shiro-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/support/spring/shiro-spring.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/support/spring/shiro-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/support/shiro-support.iml" filepath="$PROJECT_DIR$/shirocode/shiro/support/shiro-support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/support/shiro-support.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/support/shiro-support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/tools/shiro-tools.iml" filepath="$PROJECT_DIR$/shirocode/shiro/tools/shiro-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/tools/shiro-tools.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/tools/shiro-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/tools/hasher/shiro-tools-hasher.iml" filepath="$PROJECT_DIR$/shirocode/shiro/tools/hasher/shiro-tools-hasher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/tools/hasher/shiro-tools-hasher.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/tools/hasher/shiro-tools-hasher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirocode/shiro/web/shiro-web.iml" filepath="$PROJECT_DIR$/shirocode/shiro/web/shiro-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shirocode/shiro/web/shiro-web.iml" filepath="$PROJECT_DIR$/../shirocode/shiro/web/shiro-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiro1/shiro1.iml" filepath="$PROJECT_DIR$/shiro1/shiro1.iml" />
+    </modules>
+  </component>
+</project>
